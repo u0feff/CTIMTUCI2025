@@ -1,3 +1,11 @@
+## Structure
+
+```
++ Task*
++-- Task - Сами задания
++-- * - Заметки, скрипты и ответы
+```
+
 ## Backup
 
 https://drive.google.com/drive/folders/1yw7vkskPkTjpzCipWjzkYlRSDPqclWMv?usp=sharing
