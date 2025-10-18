@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cryptor", "cryptor\cryptor.csproj", "{36B3CC6E-D0DE-93A6-0EFF-1B4B0A1C2CB5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cryptor", "cryptor.csproj", "{9EB94DF5-1F86-F1DE-B967-6CA5378765C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,15 +10,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{36B3CC6E-D0DE-93A6-0EFF-1B4B0A1C2CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{36B3CC6E-D0DE-93A6-0EFF-1B4B0A1C2CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{36B3CC6E-D0DE-93A6-0EFF-1B4B0A1C2CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{36B3CC6E-D0DE-93A6-0EFF-1B4B0A1C2CB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EB94DF5-1F86-F1DE-B967-6CA5378765C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB94DF5-1F86-F1DE-B967-6CA5378765C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB94DF5-1F86-F1DE-B967-6CA5378765C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB94DF5-1F86-F1DE-B967-6CA5378765C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5AA96510-F6BC-4781-9C81-EAD6BF958B20}
+		SolutionGuid = {B5904908-3998-4289-A6E2-31CBAFC27275}
 	EndGlobalSection
 EndGlobal
