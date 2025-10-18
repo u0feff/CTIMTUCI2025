@@ -1,0 +1,64 @@
+Jun 20 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jun 20 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jun 20 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jun 21 18:29:31 localhost passwd[1234]: password for 'rooot' changed by 'root'
+Jun 21 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jun 22 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jun 22 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jun 23 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jun 24 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jun 25 18:29:31 localhost passwd[1234]: password for 'rooot' changed by 'root'
+Jun 25 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jun 25 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jun 25 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jun 25 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jun 26 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jun 26 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jun 27 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jun 28 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jun 29 18:29:31 localhost passwd[1234]: password for 'rooot' changed by 'root'
+Jun 30 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jul 01 18:29:31 localhost passwd[1234]: password for 'rooot' changed by 'root'
+Jul 01 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jul 01 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jul 02 18:29:31 localhost passwd[1234]: password for 'rooot' changed by 'root'
+Jul 02 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 02 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 03 18:29:31 localhost passwd[1234]: password for 'rooot' changed by 'root'
+Jul 03 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 03 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 03 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 03 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 04 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 05 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 05 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jul 06 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 06 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jul 07 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 07 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 08 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 08 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 08 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jul 09 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 10 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 10 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 10 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 10 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 10 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jul 11 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 12 18:29:31 localhost passwd[1234]: password for 'rooot' changed by 'root'
+Jul 12 18:29:31 localhost passwd[1234]: password for 'rooot' changed by 'root'
+Jul 13 18:29:31 localhost passwd[1234]: password for 'rooot' changed by 'root'
+Jul 13 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 13 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 14 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 15 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 15 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 16 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 16 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 16 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 17 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 17 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 18 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 19 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+

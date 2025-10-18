@@ -1,0 +1,201 @@
+Jun 20 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jun 20 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jun 20 18:29:31 localhost sshd[3456]: Accepted password for rooot from 192.168.1.50 port 54321
+Jun 20 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jun 20 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jun 20 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jun 20 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jun 20 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jun 21 18:29:31 localhost passwd[1234]: password for 'rooot' changed by 'root'
+Jun 21 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jun 21 18:29:31 localhost sshd[3456]: Accepted password for rooot from 192.168.1.50 port 54321
+Jun 21 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jun 21 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jun 21 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jun 21 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jun 22 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jun 22 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jun 22 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jun 22 18:29:31 localhost sshd[3456]: Accepted password for rooot from 192.168.1.50 port 54321
+Jun 22 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jun 23 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jun 23 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jun 23 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jun 23 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jun 23 18:29:31 localhost useradd[7890]: new user: name=rooot, UID=0, GID=0
+Jun 24 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jun 24 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jun 24 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jun 24 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jun 24 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jun 24 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jun 24 18:29:31 localhost useradd[7890]: new user: name=rooot, UID=0, GID=0
+Jun 25 18:29:31 localhost passwd[1234]: password for 'rooot' changed by 'root'
+Jun 25 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jun 25 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jun 25 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jun 25 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jun 25 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jun 25 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jun 25 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jun 25 18:29:31 localhost useradd[7890]: new user: name=rooot, UID=0, GID=0
+Jun 26 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jun 26 18:29:31 localhost sshd[3456]: Accepted password for rooot from 192.168.1.50 port 54321
+Jun 26 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jun 26 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jun 26 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jun 26 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jun 26 18:29:31 localhost useradd[7890]: new user: name=rooot, UID=0, GID=0
+Jun 27 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jun 27 18:29:31 localhost sshd[3456]: Accepted password for rooot from 192.168.1.50 port 54321
+Jun 27 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jun 27 18:29:31 localhost useradd[7890]: new user: name=rooot, UID=0, GID=0
+Jun 28 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jun 28 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jun 28 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jun 28 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jun 28 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jun 29 18:29:31 localhost passwd[1234]: password for 'rooot' changed by 'root'
+Jun 29 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jun 29 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jun 29 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jun 29 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jun 29 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jun 29 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jun 29 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jun 29 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jun 29 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jun 29 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jun 30 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jun 30 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jun 30 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jun 30 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jun 30 18:29:31 localhost useradd[7890]: new user: name=rooot, UID=0, GID=0
+Jun 30 18:29:31 localhost useradd[7890]: new user: name=rooot, UID=0, GID=0
+Jul 01 18:29:31 localhost passwd[1234]: password for 'rooot' changed by 'root'
+Jul 01 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jul 01 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jul 01 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jul 01 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 01 18:29:31 localhost useradd[7890]: new user: name=rooot, UID=0, GID=0
+Jul 02 18:29:31 localhost passwd[1234]: password for 'rooot' changed by 'root'
+Jul 02 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 02 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 02 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jul 02 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jul 02 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jul 02 18:29:31 localhost useradd[7890]: new user: name=rooot, UID=0, GID=0
+Jul 03 18:29:31 localhost passwd[1234]: password for 'rooot' changed by 'root'
+Jul 03 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 03 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 03 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 03 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 03 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jul 03 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jul 03 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 03 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 03 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 04 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 04 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jul 04 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jul 04 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 04 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 05 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 05 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jul 05 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jul 05 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jul 05 18:29:31 localhost useradd[7890]: new user: name=rooot, UID=0, GID=0
+Jul 05 18:29:31 localhost useradd[7890]: new user: name=rooot, UID=0, GID=0
+Jul 06 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 06 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jul 06 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jul 06 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jul 06 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jul 06 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 07 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 07 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 07 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jul 07 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jul 07 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 08 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 08 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 08 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jul 08 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jul 08 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jul 08 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 08 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 08 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 09 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 09 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jul 09 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jul 09 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jul 09 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jul 09 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 09 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 09 18:29:31 localhost useradd[7890]: new user: name=rooot, UID=0, GID=0
+Jul 10 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 10 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 10 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 10 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 10 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jul 10 18:29:31 localhost sshd[3456]: Accepted password for rooot from 192.168.1.50 port 54321
+Jul 10 18:29:31 localhost sshd[3456]: Accepted password for rooot from 192.168.1.50 port 54321
+Jul 10 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jul 10 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jul 10 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jul 10 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jul 10 18:29:31 localhost sudo:   rooot : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/python3 /tmp/.systemd-service
+Jul 10 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 10 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 11 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 11 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jul 11 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jul 11 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jul 11 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jul 11 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 12 18:29:31 localhost passwd[1234]: password for 'rooot' changed by 'root'
+Jul 12 18:29:31 localhost passwd[1234]: password for 'rooot' changed by 'root'
+Jul 12 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jul 12 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jul 12 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 12 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 13 18:29:31 localhost passwd[1234]: password for 'rooot' changed by 'root'
+Jul 13 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 13 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 13 18:29:31 localhost sshd[3456]: Accepted password for rooot from 192.168.1.50 port 54321
+Jul 13 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jul 13 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 13 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 14 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 14 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jul 14 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 14 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 15 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 15 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 15 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jul 15 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jul 16 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 16 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 16 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 16 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jul 16 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jul 16 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 17 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 17 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 17 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jul 17 18:29:31 localhost sshd[3456]: Accepted password for rooot from 192.168.1.50 port 54321
+Jul 17 18:29:31 localhost sshd[5678]: Failed password for invalid user admin from 10.0.0.1 port 12345 ssh2
+Jul 17 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 17 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 17 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 17 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 17 18:29:31 localhost useradd[7890]: new user: name=rooot, UID=0, GID=0
+Jul 18 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 18 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jul 18 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 18 18:29:31 localhost useradd[7890]: new user: name=rooot, UID=0, GID=0
+Jul 19 18:29:31 localhost polkitd[9012]: Registered Authentication Agent for unix-session:1
+Jul 19 18:29:31 localhost sshd[1234]: Accepted publickey for user from 192.168.1.10 port 54322 ssh2
+Jul 19 18:29:31 localhost sshd[3456]: Accepted password for rooot from 192.168.1.50 port 54321
+Jul 19 18:29:31 localhost sudo:   user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+

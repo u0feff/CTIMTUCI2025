@@ -133,8 +133,3 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
-
-**/OpenVpn.Client/cert.pem
-**/OpenVpn.Client/key.pem
-**/OpenVpn.Client/tls-crypt.pem
-**/OpenVpn.Client/endpoint.txt
