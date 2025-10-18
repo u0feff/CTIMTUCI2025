@@ -1,0 +1,64 @@
+﻿Дата;Время;Событие;Источник данных;Имя файла
+29.06.2023;23:56:52;Создание процесса Microsoft Excel;SYSTEM;
+29.06.2023;23:56:55;Изменение реестра пользователем kuznetov;BrowserHistory;
+29.06.2023;23:57:05;Открытие файла F:\Share\data_67.exe;JumpList;data_67.exe
+29.06.2023;23:57:05;Запись в файл F:\Share\project_29.pdf;BrowserHistory;project_29.pdf
+29.06.2023;23:57:07;Создание процесса Microsoft Excel;Prefetch;
+29.06.2023;23:57:08;Обновление системы пользователем kuznetov;Prefetch;
+29.06.2023;23:57:08;Сетевой доступ пользователем sidorov;Application.evtx;
+29.06.2023;23:57:12;Авторизация в системе пользователем sidorov;Application.evtx;
+29.06.2023;23:57:13;Запись в файл C:\Users\data_5.exe;Prefetch;data_5.exe
+29.06.2023;23:57:14;Изменение реестра пользователем kuznetov;UsrClass.dat;
+29.06.2023;23:57:16;Обновление системы пользователем ivanov;BrowserHistory;
+29.06.2023;23:57:16;Авторизация в системе пользователем ivanov;SYSTEM;
+29.06.2023;23:57:20;Изменение реестра пользователем kuznetov;SYSTEM;
+29.06.2023;23:57:22;Открытие файла C:\Work\project_81.docx;Prefetch;project_81.docx
+29.06.2023;23:57:22;Запись в файл C:\Work\data_5.rar;BrowserHistory;data_5.rar
+29.06.2023;23:57:24;Запуск программы Mozilla Firefox;BrowserHistory;
+29.06.2023;23:57:28;Запуск программы Mozilla Firefox;Security.evtx;
+29.06.2023;23:57:31;Сетевой доступ пользователем petrov;Prefetch;
+29.06.2023;23:57:35;Открытие файла C:\Work\invoice_41.rar;SYSTEM;invoice_41.rar
+29.06.2023;23:57:43;Открытие файла F:\Share\invoice_67.exe;UsrClass.dat;invoice_67.exe
+29.06.2023;23:57:51;Создание процесса Adobe Reader;Prefetch;
+29.06.2023;23:57:52;Изменение реестра пользователем kuznetov;NTUSER.dat;
+29.06.2023;23:57:54;Авторизация в системе пользователем kuznetov;UsrClass.dat;
+29.06.2023;23:57:55;Запись в файл C:\Users\report_78.pdf;NTUSER.dat;report_78.pdf
+29.06.2023;23:57:57;Создание процесса Notepad++;NTUSER.dat;
+29.06.2023;23:58:02;Запуск программы 7-Zip;Prefetch;
+29.06.2023;23:58:02;Авторизация в системе пользователем sidorov;SYSTEM;
+29.06.2023;23:58:03;Создание процесса 7-Zip;JumpList;
+29.06.2023;23:58:07;Запуск программы Adobe Reader;UsrClass.dat;
+29.06.2023;23:58:08;Открытие файла C:\Work\contract_84.docx;BrowserHistory;contract_84.docx
+29.06.2023;23:58:09;Изменение реестра пользователем kuznetov;SYSTEM;
+29.06.2023;23:58:10;Запуск программы Outlook;SYSTEM;
+29.06.2023;23:58:12;Авторизация в системе пользователем kuznetov;Application.evtx;
+29.06.2023;23:58:12;Обновление системы пользователем kuznetov;JumpList;
+29.06.2023;23:58:15;Изменение реестра пользователем sidorov;JumpList;
+29.06.2023;23:58:16;Изменение реестра пользователем ivanov;NTUSER.dat;
+29.06.2023;23:58:22;Открытие файла C:\Users\project_43.pdf;JumpList;project_43.pdf
+29.06.2023;23:58:23;Изменение реестра пользователем sidorov;SYSTEM;
+29.06.2023;23:58:28;Открытие файла F:\Share\invoice_4.txt;BrowserHistory;invoice_4.txt
+29.06.2023;23:58:30;Изменение реестра пользователем ivanov;NTUSER.dat;
+29.06.2023;23:58:39;Обновление системы пользователем smirnov;Prefetch;
+29.06.2023;23:58:41;Сетевой доступ пользователем ivanov;UsrClass.dat;
+29.06.2023;23:58:44;Запуск программы Outlook;UsrClass.dat;
+29.06.2023;23:58:51;Создание процесса 7-Zip;JumpList;
+29.06.2023;23:58:53;Изменение реестра пользователем sidorov;Security.evtx;
+29.06.2023;23:59:01;Обновление системы пользователем ivanov;UsrClass.dat;
+29.06.2023;23:59:03;Открытие файла C:\Users\report_24.docx;SYSTEM;report_24.docx
+29.06.2023;23:59:05;Открытие файла C:\Work\data_97.zip;JumpList;data_97.zip
+29.06.2023;23:59:14;Запись в файл D:\Projects\invoice_10.dll;Prefetch;invoice_10.dll
+29.06.2023;23:59:16;Изменение реестра пользователем kuznetov;Application.evtx;
+29.06.2023;23:59:17;Создание процесса Microsoft Excel;Security.evtx;
+29.06.2023;23:59:20;Сетевой доступ пользователем petrov;NTUSER.dat;
+29.06.2023;23:59:26;Сетевой доступ пользователем sidorov;Security.evtx;
+29.06.2023;23:59:26;Изменение реестра пользователем kuznetov;JumpList;
+29.06.2023;23:59:27;Авторизация в системе пользователем ivanov;Security.evtx;
+29.06.2023;23:59:28;Изменение реестра пользователем kuznetov;Application.evtx;
+29.06.2023;23:59:32;Открытие файла F:\Share\data_44.rar;JumpList;data_44.rar
+29.06.2023;23:59:36;Создание процесса Microsoft Word;Prefetch;
+29.06.2023;23:59:37;Запись в файл C:\Work\project_43.exe;BrowserHistory;project_43.exe
+29.06.2023;23:59:44;Открытие файла E:\Backup\report_50.xlsx;UsrClass.dat;report_50.xlsx
+29.06.2023;23:59:45;Создание процесса Adobe Reader;Application.evtx;
+29.06.2023;23:59:53;Авторизация в системе пользователем kuznetov;UsrClass.dat;
+29.06.2023;23:59:54;Обновление системы пользователем smirnov;JumpList;
