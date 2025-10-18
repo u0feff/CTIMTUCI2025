@@ -1,0 +1,501 @@
+Jun 20 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jun 20 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jun 20 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jun 20 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jun 20 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jun 20 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jun 20 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jun 20 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun 20 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun 20 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun 20 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun 20 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jun 20 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jun 20 18:29:31 localhost kernel: [9876.54321] TCP: Possible SYN flooding on port 22.
+Jun 20 18:29:31 localhost kernel: [9876.54321] TCP: Possible SYN flooding on port 22.
+Jun 20 18:29:31 localhost python3[1234]: WARNING: Copying payload to /tmp/.systemd-service
+Jun 20 18:29:31 localhost python3[4321]: INFO: Encrypted 5 database files in /var/lib/mysql
+Jun 20 18:29:31 localhost sshd[9012]: Accepted password for rooot from 192.168.1.50 port 54321
+Jun 20 18:29:31 localhost sshd[9012]: Accepted password for rooot from 192.168.1.50 port 54321
+Jun 20 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jun 21 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jun 21 18:29:31 localhost apache2[7890]: [notice] Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+Jun 21 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun 21 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jun 21 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jun 21 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jun 21 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jun 21 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jun 21 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jun 21 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jun 21 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jun 21 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jun 21 18:29:31 localhost kernel: [9876.54321] TCP: Possible SYN flooding on port 22.
+Jun 21 18:29:31 localhost nmap[8765]: Starting Nmap 7.80 ( https://nmap.org )
+Jun 21 18:29:31 localhost sshd[9012]: Accepted password for rooot from 192.168.1.50 port 54321
+Jun 21 18:29:31 localhost sshd[9012]: Accepted password for rooot from 192.168.1.50 port 54321
+Jun 21 18:29:31 localhost useradd[5678]: new user: name=rooot, UID=0, GID=0
+Jun 22 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jun 22 18:29:31 localhost apache2[3456]: [notice] Caught SIGTERM, shutting down
+Jun 22 18:29:31 localhost apache2[7890]: [notice] Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+Jun 22 18:29:31 localhost cron[1234]: (root) CMD (/etc/cron.hourly/systemd-service)
+Jun 22 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun 22 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun 22 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun 22 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun 22 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jun 22 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jun 22 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jun 22 18:29:31 localhost kernel: [9876.54321] TCP: Possible SYN flooding on port 22.
+Jun 22 18:29:31 localhost nmap[8765]: Starting Nmap 7.80 ( https://nmap.org )
+Jun 22 18:29:31 localhost nmap[8765]: Starting Nmap 7.80 ( https://nmap.org )
+Jun 22 18:29:31 localhost sshd[9012]: Accepted password for rooot from 192.168.1.50 port 54321
+Jun 22 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jun 22 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jun 23 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jun 23 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jun 23 18:29:31 localhost apache2[3456]: [notice] Caught SIGTERM, shutting down
+Jun 23 18:29:31 localhost apache2[3456]: [notice] Caught SIGTERM, shutting down
+Jun 23 18:29:31 localhost apache2[7890]: [notice] Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+Jun 23 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun 23 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun 23 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jun 23 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jun 23 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jun 23 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jun 23 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jun 23 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jun 23 18:29:31 localhost python3[1234]: WARNING: Copying payload to /tmp/.systemd-service
+Jun 23 18:29:31 localhost sshd[9012]: Accepted password for rooot from 192.168.1.50 port 54321
+Jun 23 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jun 24 18:29:31 localhost apache2[7890]: [notice] Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+Jun 24 18:29:31 localhost cron[1234]: (root) CMD (/etc/cron.hourly/systemd-service)
+Jun 24 18:29:31 localhost cron[1234]: (root) CMD (/etc/cron.hourly/systemd-service)
+Jun 24 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun 24 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun 24 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jun 24 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jun 24 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jun 24 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jun 24 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jun 24 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jun 24 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jun 24 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jun 24 18:29:31 localhost kernel: [9876.54321] TCP: Possible SYN flooding on port 22.
+Jun 24 18:29:31 localhost python3[1234]: WARNING: Copying payload to /tmp/.systemd-service
+Jun 24 18:29:31 localhost sshd[9012]: Accepted password for rooot from 192.168.1.50 port 54321
+Jun 24 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jun 24 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jun 24 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jun 24 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jun 24 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jun 24 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jun 25 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jun 25 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jun 25 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jun 25 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jun 25 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jun 25 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jun 25 18:29:31 localhost cron[1234]: (root) CMD (/etc/cron.hourly/systemd-service)
+Jun 25 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun 25 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun 25 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jun 25 18:29:31 localhost nmap[8765]: Starting Nmap 7.80 ( https://nmap.org )
+Jun 25 18:29:31 localhost python3[4321]: INFO: Encrypted 5 database files in /var/lib/mysql
+Jun 25 18:29:31 localhost python3[4321]: INFO: Encrypted 5 database files in /var/lib/mysql
+Jun 25 18:29:31 localhost sshd[9012]: Accepted password for rooot from 192.168.1.50 port 54321
+Jun 26 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jun 26 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jun 26 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jun 26 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jun 26 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jun 26 18:29:31 localhost apache2[7890]: [notice] Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+Jun 26 18:29:31 localhost cron[1234]: (root) CMD (/etc/cron.hourly/systemd-service)
+Jun 26 18:29:31 localhost cron[1234]: (root) CMD (/etc/cron.hourly/systemd-service)
+Jun 26 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun 26 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jun 26 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jun 26 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jun 26 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jun 26 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jun 26 18:29:31 localhost nmap[8765]: Starting Nmap 7.80 ( https://nmap.org )
+Jun 26 18:29:31 localhost python3[1234]: WARNING: Copying payload to /tmp/.systemd-service
+Jun 26 18:29:31 localhost python3[4321]: INFO: Encrypted 5 database files in /var/lib/mysql
+Jun 26 18:29:31 localhost sshd[9012]: Accepted password for rooot from 192.168.1.50 port 54321
+Jun 26 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jun 26 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jun 26 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jun 26 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jun 26 18:29:31 localhost useradd[5678]: new user: name=rooot, UID=0, GID=0
+Jun 27 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jun 27 18:29:31 localhost apache2[7890]: [notice] Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+Jun 27 18:29:31 localhost apache2[7890]: [notice] Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+Jun 27 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun 27 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun 27 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun 27 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun 27 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun 27 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jun 27 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jun 27 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jun 27 18:29:31 localhost kernel: [9876.54321] TCP: Possible SYN flooding on port 22.
+Jun 27 18:29:31 localhost sshd[9012]: Accepted password for rooot from 192.168.1.50 port 54321
+Jun 27 18:29:31 localhost useradd[5678]: new user: name=rooot, UID=0, GID=0
+Jun 27 18:29:31 localhost useradd[5678]: new user: name=rooot, UID=0, GID=0
+Jun 27 18:29:31 localhost useradd[5678]: new user: name=rooot, UID=0, GID=0
+Jun 28 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jun 28 18:29:31 localhost apache2[7890]: [notice] Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+Jun 28 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun 28 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun 28 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jun 28 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jun 28 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jun 28 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jun 28 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jun 28 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jun 28 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jun 28 18:29:31 localhost python3[4321]: INFO: Encrypted 5 database files in /var/lib/mysql
+Jun 28 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jun 28 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jun 28 18:29:31 localhost useradd[5678]: new user: name=rooot, UID=0, GID=0
+Jun 29 18:29:31 localhost cron[1234]: (root) CMD (/etc/cron.hourly/systemd-service)
+Jun 29 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun 29 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun 29 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jun 29 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jun 29 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jun 29 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jun 29 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jun 29 18:29:31 localhost nmap[8765]: Starting Nmap 7.80 ( https://nmap.org )
+Jun 29 18:29:31 localhost python3[1234]: WARNING: Copying payload to /tmp/.systemd-service
+Jun 29 18:29:31 localhost python3[1234]: WARNING: Copying payload to /tmp/.systemd-service
+Jun 29 18:29:31 localhost python3[4321]: INFO: Encrypted 5 database files in /var/lib/mysql
+Jun 29 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jun 30 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jun 30 18:29:31 localhost apache2[7890]: [notice] Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+Jun 30 18:29:31 localhost apache2[7890]: [notice] Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+Jun 30 18:29:31 localhost cron[1234]: (root) CMD (/etc/cron.hourly/systemd-service)
+Jun 30 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jun 30 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jun 30 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jun 30 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jun 30 18:29:31 localhost kernel: [9876.54321] TCP: Possible SYN flooding on port 22.
+Jun 30 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jun 30 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jun 30 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 01 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 01 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 01 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 01 18:29:31 localhost apache2[7890]: [notice] Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+Jul 01 18:29:31 localhost cron[1234]: (root) CMD (/etc/cron.hourly/systemd-service)
+Jul 01 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 01 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 01 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 01 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 01 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 01 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 01 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 01 18:29:31 localhost useradd[5678]: new user: name=rooot, UID=0, GID=0
+Jul 01 18:29:31 localhost useradd[5678]: new user: name=rooot, UID=0, GID=0
+Jul 02 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 02 18:29:31 localhost apache2[7890]: [notice] Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+Jul 02 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 02 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 02 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 02 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 02 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 02 18:29:31 localhost kernel: [9876.54321] TCP: Possible SYN flooding on port 22.
+Jul 02 18:29:31 localhost nmap[8765]: Starting Nmap 7.80 ( https://nmap.org )
+Jul 02 18:29:31 localhost python3[1234]: WARNING: Copying payload to /tmp/.systemd-service
+Jul 02 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 02 18:29:31 localhost useradd[5678]: new user: name=rooot, UID=0, GID=0
+Jul 03 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 03 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 03 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 03 18:29:31 localhost apache2[3456]: [notice] Caught SIGTERM, shutting down
+Jul 03 18:29:31 localhost cron[1234]: (root) CMD (/etc/cron.hourly/systemd-service)
+Jul 03 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 03 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 03 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 03 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 03 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 03 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 03 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 03 18:29:31 localhost nmap[8765]: Starting Nmap 7.80 ( https://nmap.org )
+Jul 03 18:29:31 localhost python3[4321]: INFO: Encrypted 5 database files in /var/lib/mysql
+Jul 03 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 03 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 03 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 03 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 03 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 03 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 04 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 04 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 04 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 04 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 04 18:29:31 localhost apache2[7890]: [notice] Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+Jul 04 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 04 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 04 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 04 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 04 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 04 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 04 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 04 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 04 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 04 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 04 18:29:31 localhost python3[1234]: WARNING: Copying payload to /tmp/.systemd-service
+Jul 04 18:29:31 localhost python3[1234]: WARNING: Copying payload to /tmp/.systemd-service
+Jul 05 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 05 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 05 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 05 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 05 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 05 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 05 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 05 18:29:31 localhost kernel: [9876.54321] TCP: Possible SYN flooding on port 22.
+Jul 05 18:29:31 localhost python3[4321]: INFO: Encrypted 5 database files in /var/lib/mysql
+Jul 05 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 05 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 05 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 06 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 06 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 06 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 06 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 06 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 06 18:29:31 localhost apache2[7890]: [notice] Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+Jul 06 18:29:31 localhost cron[1234]: (root) CMD (/etc/cron.hourly/systemd-service)
+Jul 06 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 06 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 06 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 06 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 06 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 06 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 06 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 06 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 06 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 06 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 06 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 06 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 06 18:29:31 localhost kernel: [9876.54321] TCP: Possible SYN flooding on port 22.
+Jul 06 18:29:31 localhost nmap[8765]: Starting Nmap 7.80 ( https://nmap.org )
+Jul 06 18:29:31 localhost python3[4321]: INFO: Encrypted 5 database files in /var/lib/mysql
+Jul 06 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 06 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 06 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 07 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 07 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 07 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 07 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 07 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 07 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 07 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 07 18:29:31 localhost nmap[8765]: Starting Nmap 7.80 ( https://nmap.org )
+Jul 07 18:29:31 localhost python3[1234]: WARNING: Copying payload to /tmp/.systemd-service
+Jul 08 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 08 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 08 18:29:31 localhost cron[1234]: (root) CMD (/etc/cron.hourly/systemd-service)
+Jul 08 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 08 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 08 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 08 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 08 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 08 18:29:31 localhost nmap[8765]: Starting Nmap 7.80 ( https://nmap.org )
+Jul 08 18:29:31 localhost python3[4321]: INFO: Encrypted 5 database files in /var/lib/mysql
+Jul 08 18:29:31 localhost sshd[9012]: Accepted password for rooot from 192.168.1.50 port 54321
+Jul 08 18:29:31 localhost sshd[9012]: Accepted password for rooot from 192.168.1.50 port 54321
+Jul 08 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 09 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 09 18:29:31 localhost apache2[7890]: [notice] Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+Jul 09 18:29:31 localhost apache2[7890]: [notice] Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+Jul 09 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 09 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 09 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 09 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 09 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 09 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 09 18:29:31 localhost nmap[8765]: Starting Nmap 7.80 ( https://nmap.org )
+Jul 09 18:29:31 localhost nmap[8765]: Starting Nmap 7.80 ( https://nmap.org )
+Jul 09 18:29:31 localhost python3[4321]: INFO: Encrypted 5 database files in /var/lib/mysql
+Jul 09 18:29:31 localhost sshd[9012]: Accepted password for rooot from 192.168.1.50 port 54321
+Jul 09 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 09 18:29:31 localhost useradd[5678]: new user: name=rooot, UID=0, GID=0
+Jul 09 18:29:31 localhost useradd[5678]: new user: name=rooot, UID=0, GID=0
+Jul 09 18:29:31 localhost useradd[5678]: new user: name=rooot, UID=0, GID=0
+Jul 10 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 10 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 10 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 10 18:29:31 localhost apache2[3456]: [notice] Caught SIGTERM, shutting down
+Jul 10 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 10 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 10 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 10 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 10 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 10 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 10 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 10 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 10 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 10 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 10 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 10 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 10 18:29:31 localhost kernel: [9876.54321] TCP: Possible SYN flooding on port 22.
+Jul 10 18:29:31 localhost python3[1234]: WARNING: Copying payload to /tmp/.systemd-service
+Jul 10 18:29:31 localhost python3[4321]: INFO: Encrypted 5 database files in /var/lib/mysql
+Jul 10 18:29:31 localhost sshd[9012]: Accepted password for rooot from 192.168.1.50 port 54321
+Jul 10 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 10 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 11 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 11 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 11 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 11 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 11 18:29:31 localhost apache2[3456]: [notice] Caught SIGTERM, shutting down
+Jul 11 18:29:31 localhost apache2[7890]: [notice] Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+Jul 11 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 11 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 11 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 11 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 11 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 11 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 11 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 11 18:29:31 localhost nmap[8765]: Starting Nmap 7.80 ( https://nmap.org )
+Jul 11 18:29:31 localhost python3[1234]: WARNING: Copying payload to /tmp/.systemd-service
+Jul 11 18:29:31 localhost python3[1234]: WARNING: Copying payload to /tmp/.systemd-service
+Jul 11 18:29:31 localhost sshd[9012]: Accepted password for rooot from 192.168.1.50 port 54321
+Jul 11 18:29:31 localhost sshd[9012]: Accepted password for rooot from 192.168.1.50 port 54321
+Jul 11 18:29:31 localhost sshd[9012]: Accepted password for rooot from 192.168.1.50 port 54321
+Jul 11 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 11 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 11 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 11 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 12 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 12 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 12 18:29:31 localhost cron[1234]: (root) CMD (/etc/cron.hourly/systemd-service)
+Jul 12 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 12 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 12 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 12 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 12 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 12 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 12 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 12 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 12 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 12 18:29:31 localhost kernel: [9876.54321] TCP: Possible SYN flooding on port 22.
+Jul 12 18:29:31 localhost kernel: [9876.54321] TCP: Possible SYN flooding on port 22.
+Jul 12 18:29:31 localhost nmap[8765]: Starting Nmap 7.80 ( https://nmap.org )
+Jul 12 18:29:31 localhost sshd[9012]: Accepted password for rooot from 192.168.1.50 port 54321
+Jul 12 18:29:31 localhost sshd[9012]: Accepted password for rooot from 192.168.1.50 port 54321
+Jul 12 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 12 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 12 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 12 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 12 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 12 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 12 18:29:31 localhost useradd[5678]: new user: name=rooot, UID=0, GID=0
+Jul 13 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 13 18:29:31 localhost apache2[3456]: [notice] Caught SIGTERM, shutting down
+Jul 13 18:29:31 localhost cron[1234]: (root) CMD (/etc/cron.hourly/systemd-service)
+Jul 13 18:29:31 localhost cron[1234]: (root) CMD (/etc/cron.hourly/systemd-service)
+Jul 13 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 13 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 13 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 13 18:29:31 localhost python3[4321]: INFO: Encrypted 5 database files in /var/lib/mysql
+Jul 13 18:29:31 localhost python3[4321]: INFO: Encrypted 5 database files in /var/lib/mysql
+Jul 13 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 13 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 13 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 13 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 13 18:29:31 localhost useradd[5678]: new user: name=rooot, UID=0, GID=0
+Jul 14 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 14 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 14 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 14 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 14 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 14 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 14 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 14 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 14 18:29:31 localhost kernel: [9876.54321] TCP: Possible SYN flooding on port 22.
+Jul 14 18:29:31 localhost nmap[8765]: Starting Nmap 7.80 ( https://nmap.org )
+Jul 14 18:29:31 localhost nmap[8765]: Starting Nmap 7.80 ( https://nmap.org )
+Jul 14 18:29:31 localhost nmap[8765]: Starting Nmap 7.80 ( https://nmap.org )
+Jul 14 18:29:31 localhost python3[4321]: INFO: Encrypted 5 database files in /var/lib/mysql
+Jul 14 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 14 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 15 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 15 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 15 18:29:31 localhost cron[1234]: (root) CMD (/etc/cron.hourly/systemd-service)
+Jul 15 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 15 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 15 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 15 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 15 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 15 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 15 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 15 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 16 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 16 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 16 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 16 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 16 18:29:31 localhost cron[1234]: (root) CMD (/etc/cron.hourly/systemd-service)
+Jul 16 18:29:31 localhost cron[1234]: (root) CMD (/etc/cron.hourly/systemd-service)
+Jul 16 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 16 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 16 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 16 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 16 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 16 18:29:31 localhost kernel: [9876.54321] TCP: Possible SYN flooding on port 22.
+Jul 16 18:29:31 localhost sshd[9012]: Accepted password for rooot from 192.168.1.50 port 54321
+Jul 16 18:29:31 localhost sshd[9012]: Accepted password for rooot from 192.168.1.50 port 54321
+Jul 16 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 16 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 16 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 16 18:29:31 localhost useradd[5678]: new user: name=rooot, UID=0, GID=0
+Jul 17 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 17 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 17 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 17 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 17 18:29:31 localhost apache2[7890]: [notice] Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+Jul 17 18:29:31 localhost cron[1234]: (root) CMD (/etc/cron.hourly/systemd-service)
+Jul 17 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 17 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 17 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 17 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 17 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 17 18:29:31 localhost kernel: [9876.54321] TCP: Possible SYN flooding on port 22.
+Jul 17 18:29:31 localhost kernel: [9876.54321] TCP: Possible SYN flooding on port 22.
+Jul 17 18:29:31 localhost python3[4321]: INFO: Encrypted 5 database files in /var/lib/mysql
+Jul 17 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 18 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 18 18:29:31 localhost apache2[3456]: [notice] Caught SIGTERM, shutting down
+Jul 18 18:29:31 localhost apache2[7890]: [notice] Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+Jul 18 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 18 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 18 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 18 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 18 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 18 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 18 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 18 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 18 18:29:31 localhost dbus-daemon[123]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 18 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 18 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 18 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 18 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 18 18:29:31 localhost kernel: [9876.54321] TCP: Possible SYN flooding on port 22.
+Jul 18 18:29:31 localhost python3[1234]: WARNING: Copying payload to /tmp/.systemd-service
+Jul 18 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 18 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 18 18:29:31 localhost useradd[5678]: new user: name=rooot, UID=0, GID=0
+Jul 19 18:29:31 localhost NetworkManager[456]: <info>  [eth0] DHCP: IP address 192.168.1.100
+Jul 19 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 19 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 19 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 19 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 19 18:29:31 localhost cron[789]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Jul 19 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 19 18:29:31 localhost kernel: [12345.67890] CPU0: Core temperature above threshold
+Jul 19 18:29:31 localhost python3[1234]: WARNING: Copying payload to /tmp/.systemd-service
+Jul 19 18:29:31 localhost python3[4321]: INFO: Encrypted 5 database files in /var/lib/mysql
+Jul 19 18:29:31 localhost python3[4321]: INFO: Encrypted 5 database files in /var/lib/mysql
+Jul 19 18:29:31 localhost systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 19 18:29:31 localhost useradd[5678]: new user: name=rooot, UID=0, GID=0
+
