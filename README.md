@@ -4,8 +4,8 @@ CTI (Capture the Intruder) competition, held by MTUCI in 2025, was open to teams
 
 CTI (Capture the Intruder) проводимый МТУСИ в 2025 году среди команд со всех вузов России. Здесь - сохранение всех заданий и бэклог решений от команды "pink", занявшей 4 место в финале соревнований.
 
-[Event](https://events-mtuci.ru/cti)
-[Leaderboard](https://events-mtuci.ru/tpost/c71zas7iy1-rezultati-finalnogo-etapa-cti-2025)
+1. [Event](https://events-mtuci.ru/cti)
+2. [Leaderboard](https://events-mtuci.ru/tpost/c71zas7iy1-rezultati-finalnogo-etapa-cti-2025)
 
 ## Structure/Структура
 
@@ -19,8 +19,8 @@ Also 2 linked projects with notes and solves for both stages:
 
 Также 2 присоединенных проекта с заметками и решениями для обоих этапов:
 
-[Qualifying stage](https://github.com/users/Vlas-Omsk/projects/4)
-[Final stage](https://github.com/users/Vlas-Omsk/projects/5)
+1. [Qualifying stage](https://github.com/users/Vlas-Omsk/projects/4)
+2. [Final stage](https://github.com/users/Vlas-Omsk/projects/5)
 
 ## Backup
 
