@@ -1,8 +1,8 @@
 ## About event/О событии
 
-CTI (Capture the Intruder) competition, held by MTUCI in 2025, was open to teams from all Russian universities. Here's a copy of all tasks and a backlog of solutions from the "pink" team, which placed fourth in the competition finals.
+CTI (Capture the Intruder), organized by MTUCI in 2025, is a competition among teams from universities all across Russia. This repository contains all the tasks and a backlog of solutions from the "pink" team, which took 4th place in the competition finals.
 
-CTI (Capture the Intruder) проводимый МТУСИ в 2025 году среди команд со всех вузов России. Здесь - сохранение всех заданий и бэклог решений от команды "pink", занявшей 4 место в финале соревнований.
+CTI (Capture the Intruder) проводимый МТУСИ в 2025 году среди команд со всех вузов России. В этом репозитории - сохранение всех заданий и бэклог решений от команды "pink", занявшей 4 место в финале соревнований.
 
 1. [Event](https://events-mtuci.ru/cti)
 2. [Leaderboard](https://events-mtuci.ru/tpost/c71zas7iy1-rezultati-finalnogo-etapa-cti-2025)
