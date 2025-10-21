@@ -11,16 +11,16 @@ CTI (Capture the Intruder) проводимый МТУСИ в 2025 году ср
 
 ```
 + Task*
-+-- Task - Сами задания
-+-- * - Заметки, скрипты и ответы
++-- Task - Tasks itself/Сами задания
++-- * - Notes, scripts and solutions/Заметки, скрипты и решения
 ```
 
 Also 2 linked projects with notes and solves for both stages:
 
 Также 2 присоединенных проекта с заметками и решениями для обоих этапов:
 
-1. [Qualifying stage](https://github.com/users/Vlas-Omsk/projects/4)
-2. [Final stage](https://github.com/users/Vlas-Omsk/projects/5)
+1. [Qualifying stage](https://github.com/users/u0feff/projects/4)
+2. [Final stage](https://github.com/users/u0feff/projects/5)
 
 ## Backup
 
